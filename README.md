@@ -1,3 +1,4 @@
+配置：https://mba811.gitbooks.io/web-study/content/vpn/vpn4.html
 一、 MacOS
   安装包：Tunnelblick_3.7.8_build_5180.dmg
 
